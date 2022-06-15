@@ -1,4 +1,4 @@
-<h1>Ejemplo de validación utilizando la libreria joi</h1>
+Ejemplo de validación utilizando la libreria joi
 
 //require joi
 //montamos servidor
